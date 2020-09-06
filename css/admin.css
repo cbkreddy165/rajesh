@@ -1,0 +1,30 @@
+
+body {
+    
+    font-size: 14px;
+   color:#000;
+   line-height: 22px;
+}
+
+.error{
+    font-size: 12px;
+    color:red;
+}
+
+/* Login form CSS */
+#login-form{
+    background: #059a3aa8;
+   min-height: 700px;
+}
+.form_bg {
+     margin: 150px auto;
+    width: 400px;
+    background: #fff;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
+.align-center {
+    
+    text-align:center;
+}
